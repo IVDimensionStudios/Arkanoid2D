@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7047F0CC-7571-5496-1CD9-AD74ACCB4D2A}") = "Arkanoid2D", "Assembly-CSharp.csproj", "{86E46F35-8410-8A31-FE85-0BDEBF754E9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86E46F35-8410-8A31-FE85-0BDEBF754E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E46F35-8410-8A31-FE85-0BDEBF754E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E46F35-8410-8A31-FE85-0BDEBF754E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E46F35-8410-8A31-FE85-0BDEBF754E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
