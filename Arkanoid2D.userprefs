@@ -1,6 +1,13 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../MyPersonalData/DefaultBlockBreaker/Assets/Scripts/MusicPlayer.cs">
+    <Files>
+      <File FileName="../MyPersonalData/DefaultBlockBreaker/Assets/Scripts/MusicPlayer.cs" Line="17" Column="4" />
+      <File FileName="Assets/Scripts/MyCollider.cs" Line="16" Column="39" />
+      <File FileName="Assets/Scripts/LevelManager.cs" Line="12" Column="3" />
+      <File FileName="Assets/Scripts/Paddle.cs" Line="11" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
